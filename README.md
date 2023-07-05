@@ -16,7 +16,7 @@ I am Mahmoud Nobani, still a student, interested in machine learning and studyin
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=ludehsar&count_private=true&show_icons=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ludehsar&hide=TeX&layout=compact)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=MahmoudNobani&count_private=true&show_icons=true&include_all_commits=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MahmoudNobani&hide=TeX&layout=compact)
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=ludehsar.ludehsar)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=MahmoudNobani.MahmoudNobani)
