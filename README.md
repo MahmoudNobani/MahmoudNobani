@@ -19,4 +19,4 @@ I am Mahmoud Nobani, still a student, interested in machine learning and studyin
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=MahmoudNobani&count_private=true&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MahmoudNobani&hide=TeX&layout=compact)
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=MahmoudNobani.MahmoudNobani)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=MahmoudNobani)
