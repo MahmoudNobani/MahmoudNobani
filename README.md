@@ -3,7 +3,6 @@
 I am Mahmoud Nobani, software engineer (2 years at exalt as devsecops and counting, interested in alot of things, reading, writing, watching anime, learning more about the field i am working in and other field including machine learning.
 ## ⚡ Technologies
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
